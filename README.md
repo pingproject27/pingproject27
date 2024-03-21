@@ -5,7 +5,7 @@
 <h2>Software Development:</h2>
 
 - <b>SQL and BigQuery</b>
-  - [Leetcode Exercises](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Leetcode Exercises](https://github.com/pingproject27/SQLLeetcodeExercises)
   - [Bigquery]
   - [Public Data]
 - <b>Python</b>
