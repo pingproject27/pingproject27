@@ -21,6 +21,6 @@
 <h2>Certifications</h2>
 
 - [Data Engineer Associate at DataCamp - March 2024] 
-- [Associate SQL - March 2024]
-- [AWS Solutions Architect Associate - April 2024]
-- [AWS Data Engineer Associate - April 2024]
+- [Associate SQL - tbd]
+- [AWS Solutions Architect Associate - tbd]
+- [AWS Data Engineer Associate - tbd]
