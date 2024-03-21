@@ -5,9 +5,8 @@
 <h2>Software Development:</h2>
 
 - <b>SQL and BigQuery</b>
-  - [Leetcode - Top SQL 50](https://github.com/pingproject27/SQLLeetcodeExercises)
-  - [Bigquery]
-  - [Public Data]
+  - [Exercises](https://github.com/pingproject27/SQLExercises)
+  - [Public DataSets]
 - <b>Python</b>
   - [Project: 1]
   - [Project: 2]
